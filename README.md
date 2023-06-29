@@ -1,2 +1,2 @@
 # OIBSIPtask2
-tribute to
+tribute page
